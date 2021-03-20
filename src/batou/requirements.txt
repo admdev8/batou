@@ -6,7 +6,7 @@ idna==2.8
 urllib3==1.25.3
 apipkg==1.5
 ConfigUpdater==1.1
-Jinja2==2.10.1
+Jinja2==2.11.3
 requests==2.22.0
 setuptools==50.3.0
 execnet==1.7.1
